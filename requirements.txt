@@ -1,4 +1,6 @@
 alembic==1.17.0
+fastapi==0.120.1
+Flask==3.1.0
 annotated-types==0.7.0
 bcrypt==4.1.2
 click==8.1.8
@@ -26,6 +28,7 @@ SQLAlchemy==2.0.44
 urllib3==2.5.0
 uvicorn==0.35.0
 webencodings==0.5.1
+
 
 
 
